@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-1. [Overview](https://github.com/RakhmatovShohruh/Camera_Calibration/blob/main/README.md#overview)
+1. [Overview](https://github.com/RakhmatovShohruh/Camera_Calibration#Overview)
 2. [Installation](https://github.com/RakhmatovShohruh/Camera_Calibration#Installation)
 3. [Project Structure](https://github.com/RakhmatovShohruh/Camera_Calibration#project-structure)
 4. [Execution](https://github.com/RakhmatovShohruh/Camera_Calibration#Execution)
