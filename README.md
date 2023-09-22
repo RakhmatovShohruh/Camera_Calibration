@@ -3,12 +3,12 @@
 
 ## Table of Contents
 
-1. [Overview](https://github.com/RakhmatovShohruh/Calibration#overview)
-2. [Installation](https://github.com/RakhmatovShohruh/Calibration#Installation)
-3. [Project Structure](https://github.com/RakhmatovShohruh/Calibration#project-structure)
-4. [Execution](https://github.com/RakhmatovShohruh/Calibration#Execution)
-5. [Features](https://github.com/RakhmatovShohruh/Calibration#Features)
-6. [Output](https://github.com/RakhmatovShohruh/Calibration#Output)
+1. [Overview](https://github.com/RakhmatovShohruh/Camera_Calibration/blob/main/info/video.gif)
+2. [Installation](https://github.com/RakhmatovShohruh/Camera_Calibration#Installation)
+3. [Project Structure](https://github.com/RakhmatovShohruh/Camera_Calibration#project-structure)
+4. [Execution](https://github.com/RakhmatovShohruh/Camera_Calibration#Execution)
+5. [Features](https://github.com/RakhmatovShohruh/Camera_Calibration#Features)
+6. [Output](https://github.com/RakhmatovShohruh/Camera_Calibration#Output)
 
 ### **Overview**
 
