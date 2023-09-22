@@ -1,5 +1,5 @@
 # **Camera Calibration with OpenCV**
-![](/https://github.com/RakhmatovShohruh/info/video.gif)
+![](/https://github.com/RakhmatovShohruh/Camera_Calibration/blob/main/info/video.gif)
 
 ## Table of Contents
 
